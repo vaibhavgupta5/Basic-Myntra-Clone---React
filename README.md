@@ -1,8 +1,22 @@
-# React + Vite
+# Myntra Clone - React
+Basic Mytra Clone using Reactjs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features Added ->
+1) Add to Cart
+2) Remove from Cart
+3) Cart Page with a Summary section for calculating the price.
+4) Switch between Cart and Home using Header.
 
-Currently, two official plugins are available:
+### What I learned ->
+1) How to Redux Toolkit.
+2) Benefits and how to use useSlice/Store over reducer, and how to setup multiple slices.
+3) Creating paths using redux.
+4) Api fetching.
+5) How to use functions like useSelector and useDispatch to subscribe and call reducer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Languages/Libraries/Frameworks Used ->
+1) React Js
+2) Redux-Toolkit
+3) BootStrap
+4) JavaScript
+5) HTML, CSS
